@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/therussojr/robots-create-videos-for-youtube/issues"
   },
-  "homepage": "https://github.com/therussojr/robots-create-videos-for-youtube#readme"
+  "homepage": "https://github.com/therussojr/robots-create-videos-for-youtube#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
